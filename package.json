@@ -2,11 +2,6 @@
   "name": "frontend-project-lvl3",
   "version": "0.0.1",
   "description": "Compares two configuration files and shows a difference.",
-  "builds": [
-    {
-      "config": { "distDir": "dist" }
-    }
-  ],
   "main": "src/init.js",
   "scripts": {
     "build": "webpack"
