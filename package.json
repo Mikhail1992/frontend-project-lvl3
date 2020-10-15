@@ -4,7 +4,7 @@
   "description": "Compares two configuration files and shows a difference.",
   "main": "src/init.js",
   "scripts": {
-    "build": "webpack -p"
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
